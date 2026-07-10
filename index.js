@@ -31,7 +31,7 @@ client.on('guildMemberAdd', async anggota => {
 
     await saluranSambut.send(`## 🎮 SELAMAT DATANG DI SERVER DISCORD
 # 🔴 POINT BLANK • EVOS REBORN
-### Halo Trooper! 👋
+### Halo ${anggota}! 👋
 ### Selamat datang di markas resmi komunitas EVOS Reborn khusus pecinta game Point Blank! 🚀
 ### Di sini tempat kita berkumpul, latihan bareng, berbagi info turnamen, cari teman mabar, dan tentunya membuktikan bahwa kita adalah pasukan yang tak terkalahkan! 💪
 ## 📜 HAL PENTING UNTUK DIBACA DULU:
