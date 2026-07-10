@@ -33,7 +33,7 @@ client.on('guildMemberAdd', async anggota => {
 # 🔴 POINT BLANK • EVOS REBORN
 ### Halo ${anggota}! 👋
 ### Selamat datang di markas resmi komunitas EVOS Reborn khusus pecinta game Point Blank! 🚀
-### Di sini tempat kita berkumpul, latihan bareng, berbagi info turnamen, cari teman mabar, dan tentunya membuktikan bahwa kita adalah pasukan yang tak terkalahkan! 💪
+### Di sini tempat kita berkumpul, latihan bareng, berbagi info turnamen, cari teman mabar, dan tentunya membuktikan bahwa kita adalah pasukan yang tak terkalahkan! 
 ## 📜 HAL PENTING UNTUK DIBACA DULU:
 **✅ Baca dan patuhi peraturan di sini <#1520016599871000668>**
 **✅ Untuk informasi update silahkan cek disini <#1520544487762297073>**
